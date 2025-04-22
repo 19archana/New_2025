@@ -28,7 +28,8 @@
     <artifactId>selenium-java</artifactId>
     <version>4.29.0</version>
 </dependency>
-    <build>
+</dependencies>
+  <build>
   <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -42,5 +43,5 @@
     </plugin>
   </plugins>
 </build>
-</dependencies>
+  
 </project>
